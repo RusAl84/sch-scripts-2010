@@ -1,0 +1,3 @@
+#!/bin/sh
+chown -R :smbusers /usr/sch/sites/local
+chmod -R g=rwx /usr/sch/sites/local

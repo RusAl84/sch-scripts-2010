@@ -1,0 +1,2 @@
+#!/bin/sh
+perl /usr/sch/script/samba/stop.pl

@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "Samba script is run..."
+perl /usr/sch/script/samba/start.pl
+sh /usr/sch/script/samba/perm
